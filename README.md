@@ -1,7 +1,7 @@
 # An Introduction to R
 University of South Florida\
 Department of Integrative Biology\
-Friday, October 10, 2025 10:00 am EST\
+Friday, October 10, 2025 10:00 am EST
 
 
 R is a programming language used for statistical computing and graphics. In this session, you will be introduced to the basics of R and begin to explore data analysis. Attendees do not need to have any prior programming experience, we will start from the beginning!
