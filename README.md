@@ -30,3 +30,5 @@ Website: [Posit Cloud](https://posit.cloud/)
 - At the top you can *rename* the project by clicking on Untitled Project  
 
 You are all set! This workspace will be saved and ready to access anytime in the future.
+
+# All the files can be downloaded by clicking on the green **CODE** button and selecting **Download Zip** in the menu. 
