@@ -31,4 +31,6 @@ Website: [Posit Cloud](https://posit.cloud/)
 
 You are all set! This workspace will be saved and ready to access anytime in the future.
 
-# All the files can be downloaded by clicking on the green **CODE** button and selecting **Download Zip** in the menu. 
+***
+
+#### All the files can be downloaded by clicking on the green **CODE** button and selecting **Download Zip** in the menu. 
