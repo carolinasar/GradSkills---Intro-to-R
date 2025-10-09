@@ -34,3 +34,7 @@ You are all set! This workspace will be saved and ready to access anytime in the
 ***
 
 #### All the files can be downloaded by clicking on the green **CODE** button and selecting **Download Zip** in the menu. 
+
+The *.R* and *.Rmd* files can be opened in RStudio
+* The Intro_to_R_ALL files are part of a workshop I created (2021, 2022) and I am sharing these in case they are useful
+* The Iris_data.csv, Reported_heights.csv, and Larval Mass Data.xls are useful files (for assignments)
