@@ -1,6 +1,6 @@
 # Introduction to R
 # By Carolina Sarmiento
-# USF - Grad Skills - Oct. 10, 2025
+# USF - Grad Skills - Oct. 9, 2026
 
 #*******************#
 # LET'S GET STARTED # ------
